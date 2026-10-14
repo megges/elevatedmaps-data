@@ -25,12 +25,12 @@ A German draft law would let grid operators declare a substation "capacity-limit
 | 3 | https://elevatedmaps.com/data/abgeregelt/csv/districts.csv?v=56f923cc | 400 | 22 KB |
 | 4 | https://elevatedmaps.com/data/abgeregelt/csv/new_units_2026.csv?v=e20563df | 675 | 37 KB |
 
-All files with this description: https://github.com/megges/elevatedmaps-data (folder `abgeregelt/`)
+All files with this description: https://github.com/megges/elevatedmaps-data (folder `abgeregelt/`, files directly in it, no `csv/` subfolder)
 
 1. **days.csv**: lost electricity per day since 2025 in MWh, no gaps (0 = no curtailment reported that day). Distribution grid estimated (throttled capacity times local weather, ERA5), transmission grid as reported (netztransparenz.de). Plus wind and solar electricity fed in across all of Germany (SMARD), for a rough share of lost electricity. Since only some grid operators publish data, that share is a lower bound.
-2. **substations.csv**: one row per substation (110 kV, OpenStreetMap) and energy type, year 2025, distribution grid only. Each unit counts towards its nearest substation. Only substations with at least 3 units, at least 1 MW and at least 50 % of capacity covered. `share_curtailed_2025_pct` = curtailed / (curtailed + fed in) * 100. Amounts calibrated per unit and month against actual 2025 feed-in (EEG settlement data).
+2. **substations.csv**: one row per substation (110 kV, OpenStreetMap) and energy type, year 2025, distribution grid only. Each unit counts towards its nearest substation. Only substations with at least 3 units, at least 1 MW and at least 50 % of capacity covered. `share_curtailed_2025_pct` = curtailed / (curtailed + fed in) * 100. Amounts calibrated per unit and month against actual 2025 feed-in (EEG settlement data). `units` and `mw` = all EEG units in operation in the Marktstammdatenregister snapshot used for this story. That snapshot already contains part of the units commissioned in 2026, so `mw` is not the 2025 stock. Do not use it as the base for growth rates.
 3. **districts.csv**: all German districts (Landkreise and kreisfreie Städte). `coverage` = share of wind and solar capacity at grid operators that publish data (0 to 1, empty = unknown). Values per energy type only for the 5 distribution grid operators with unit keys, at least 3 units, otherwise empty.
-4. **new_units_2026.csv**: units commissioned from 1 January 2026 (Marktstammdatenregister) per substation and energy type, only at substations with data. `substation_over_5pct_2025` = 1 if the substation was over 5 % for this energy type in 2025 (at least 10 MW).
+4. **new_units_2026.csv**: units commissioned from 1 January 2026 (Marktstammdatenregister) per substation and energy type, only at substations with data. `substation_over_5pct_2025` = 1 if the substation was over 5 % for this energy type in 2025 (at least 10 MW). Some rows have no match in substations.csv because that file only lists substations with at least 3 units and 1 MW; all of them have the flag 0.
 
 ## Key figures of the story
 
