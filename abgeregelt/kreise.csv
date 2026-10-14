@@ -1,0 +1,401 @@
+ags,name,art,abdeckung,wind_anlagen,wind_mw,wind_mwh_abgeregelt_2025,wind_mwh_eingespeist_2025,wind_quote_2025_pct,solar_anlagen,solar_mw,solar_mwh_abgeregelt_2025,solar_mwh_eingespeist_2025,solar_quote_2025_pct
+01001,Flensburg,Kreisfreie Stadt,0.74,23,69.0,1878.0,123805.0,1.5,5,3.0,7.0,2814.0,0.3
+01002,Kiel,Kreisfreie Stadt,,,,,,,,,,,
+01003,Lübeck,Kreisfreie Stadt,,,,,,,,,,,
+01004,Neumünster,Kreisfreie Stadt,0.61,,,,,,1670,19.0,10.0,9099.0,0.1
+01051,Dithmarschen,Kreis,0.93,747,1912.0,202621.0,3350069.0,5.7,7789,305.0,4158.0,260628.0,1.6
+01053,Herzogtum Lauenburg,Kreis,0.56,44,73.0,4123.0,94839.0,4.2,2806,58.0,464.0,45490.0,1.0
+01054,Nordfriesland,Kreis,0.83,734,1925.0,133535.0,3471450.0,3.7,8541,326.0,4010.0,258784.0,1.5
+01055,Ostholstein,Kreis,0.76,209,459.0,50254.0,664035.0,7.0,4478,128.0,1146.0,107699.0,1.1
+01056,Pinneberg,Kreis,0.36,9,23.0,298.0,17840.0,1.6,2286,29.0,30.0,16868.0,0.2
+01057,Plön,Kreis,0.76,23,27.0,629.0,32267.0,1.9,3724,75.0,286.0,55112.0,0.5
+01058,Rendsburg-Eckernförde,Kreis,0.73,159,423.0,17023.0,746714.0,2.2,9391,385.0,1858.0,260111.0,0.7
+01059,Schleswig-Flensburg,Kreis,0.85,380,994.0,36720.0,1788788.0,2.0,11712,540.0,2118.0,396732.0,0.5
+01060,Segeberg,Kreis,0.65,70,239.0,4507.0,326023.0,1.4,4950,83.0,234.0,54256.0,0.4
+01061,Steinburg,Kreis,0.83,175,483.0,12753.0,830619.0,1.5,4051,356.0,4261.0,281955.0,1.5
+01062,Stormarn,Kreis,0.33,9,19.0,739.0,20448.0,3.5,3592,42.0,43.0,21728.0,0.2
+02000,Hamburg,Kreisfreie Stadt,0.0,,,,,,,,,,
+03101,Braunschweig,Kreisfreie Stadt,0.09,,,,,,,,,,
+03102,Salzgitter,Kreisfreie Stadt,0.95,47,115.0,4320.0,177132.0,2.4,1570,24.0,155.0,13429.0,1.1
+03103,Wolfsburg,Kreisfreie Stadt,,,,,,,,,,,
+03151,Gifhorn,Landkreis,0.02,4,10.0,1134.0,9135.0,11.0,28,0.0,0.0,157.0,0.0
+03153,Goslar,Landkreis,0.38,17,70.0,694.0,41256.0,1.7,909,31.0,305.0,27829.0,1.1
+03154,Helmstedt,Landkreis,0.28,23,45.0,1417.0,55499.0,2.5,1472,27.0,404.0,16657.0,2.4
+03155,Northeim,Landkreis,0.24,21,77.0,0.0,101093.0,0.0,316,5.0,0.0,3271.0,0.0
+03157,Peine,Landkreis,0.72,82,203.0,28238.0,293717.0,8.8,3506,43.0,104.0,31082.0,0.3
+03158,Wolfenbüttel,Landkreis,0.54,77,182.0,6697.0,254952.0,2.6,2514,41.0,1056.0,32028.0,3.2
+03159,Göttingen,Landkreis,0.15,,,,,,,,,,
+03241,Region Hannover,Landkreis,0.55,194,351.0,10313.0,444483.0,2.3,8887,153.0,99.0,99983.0,0.1
+03251,Diepholz,Landkreis,0.52,196,409.0,31464.0,647108.0,4.6,5744,97.0,160.0,62875.0,0.3
+03252,Hameln-Pyrmont,Landkreis,0.04,,,,,,603,9.0,0.0,5672.0,0.0
+03254,Hildesheim,Landkreis,0.55,59,129.0,2974.0,209789.0,1.4,4355,63.0,98.0,45323.0,0.2
+03255,Holzminden,Landkreis,0.02,,,,,,157,2.0,0.0,1328.0,0.0
+03256,Nienburg (Weser),Landkreis,0.84,165,342.0,13846.0,501397.0,2.7,4730,128.0,229.0,96586.0,0.2
+03257,Schaumburg,Landkreis,0.02,,,,,,327,4.0,0.0,2470.0,0.0
+03351,Celle,Landkreis,0.23,34,66.0,4245.0,103559.0,3.9,3,25.0,55.0,2159.0,2.5
+03352,Cuxhaven,Landkreis,0.98,106,323.0,14775.0,607589.0,2.4,,,,,
+03353,Harburg,Landkreis,0.79,7,36.0,336.0,72712.0,0.5,910,14.0,3.0,7986.0,0.0
+03354,Lüchow-Dannenberg,Landkreis,0.84,77,143.0,4972.0,130806.0,3.7,1679,39.0,195.0,29484.0,0.7
+03355,Lüneburg,Landkreis,0.84,100,230.0,4543.0,422104.0,1.1,4692,69.0,50.0,43066.0,0.1
+03356,Osterholz,Landkreis,0.7,,,,,,,,,,
+03357,Rotenburg (Wümme),Landkreis,0.91,56,214.0,21634.0,369631.0,5.5,411,7.0,18.0,4873.0,0.4
+03358,Heidekreis,Landkreis,0.76,137,297.0,17955.0,420351.0,4.1,1582,38.0,112.0,25490.0,0.4
+03359,Stade,Landkreis,0.76,75,193.0,3044.0,302393.0,1.0,,,,,
+03360,Uelzen,Landkreis,0.63,109,375.0,63059.0,605116.0,9.4,,,,,
+03361,Verden,Landkreis,0.61,11,33.0,1206.0,53163.0,2.2,776,18.0,26.0,13082.0,0.2
+03401,Delmenhorst,Kreisfreie Stadt,0.96,,,,,,,,,,
+03402,Emden,Kreisfreie Stadt,0.71,8,36.0,707.0,72089.0,1.0,4,1.0,0.0,1205.0,0.0
+03403,Oldenburg (Oldb),Kreisfreie Stadt,0.94,,,,,,,,,,
+03404,Osnabrück,Kreisfreie Stadt,,,,,,,,,,,
+03405,Wilhelmshaven,Kreisfreie Stadt,0.19,7,23.0,13827.0,37342.0,27.0,,,,,
+03451,Ammerland,Landkreis,0.97,,,,,,,,,,
+03452,Aurich,Landkreis,0.95,169,391.0,47011.0,582581.0,7.5,,,,,
+03453,Cloppenburg,Landkreis,0.97,63,171.0,2461.0,299701.0,0.8,,,,,
+03454,Emsland,Landkreis,0.54,78,259.0,14317.0,529244.0,2.6,,,,,
+03455,Friesland,Landkreis,0.95,35,107.0,53408.0,162913.0,24.7,3,117.0,3309.0,85227.0,3.7
+03456,Grafschaft Bentheim,Landkreis,,,,,,,,,,,
+03457,Leer,Landkreis,0.97,15,41.0,859.0,83401.0,1.0,,,,,
+03458,Oldenburg,Landkreis,0.92,21,71.0,6106.0,155157.0,3.8,607,14.0,35.0,9053.0,0.4
+03459,Osnabrück,Landkreis,0.03,,,,,,,,,,
+03460,Vechta,Landkreis,0.64,,,,,,,,,,
+03461,Wesermarsch,Landkreis,0.9,20,78.0,0.0,77523.0,0.0,,,,,
+03462,Wittmund,Landkreis,0.96,79,215.0,86477.0,330502.0,20.7,,,,,
+04011,Bremen,Kreisfreie Stadt,0.0,,,,,,,,,,
+04012,Bremerhaven,Kreisfreie Stadt,,,,,,,,,,,
+05111,Düsseldorf,Kreisfreie Stadt,,,,,,,,,,,
+05112,Duisburg,Kreisfreie Stadt,,,,,,,,,,,
+05113,Essen,Kreisfreie Stadt,,,,,,,,,,,
+05114,Krefeld,Kreisfreie Stadt,,,,,,,,,,,
+05116,Mönchengladbach,Kreisfreie Stadt,,,,,,,,,,,
+05117,Mülheim an der Ruhr,Kreisfreie Stadt,,,,,,,,,,,
+05119,Oberhausen,Kreisfreie Stadt,,,,,,,,,,,
+05120,Remscheid,Kreisfreie Stadt,,,,,,,,,,,
+05122,Solingen,Kreisfreie Stadt,,,,,,,,,,,
+05124,Wuppertal,Kreisfreie Stadt,0.0,,,,,,,,,,
+05154,Kleve,Kreis,,,,,,,,,,,
+05158,Mettmann,Kreis,,,,,,,,,,,
+05162,Rhein-Kreis Neuss,Kreis,,,,,,,,,,,
+05166,Viersen,Kreis,,,,,,,,,,,
+05170,Wesel,Kreis,,,,,,,,,,,
+05314,Bonn,Kreisfreie Stadt,,,,,,,,,,,
+05315,Köln,Kreisfreie Stadt,,,,,,,,,,,
+05316,Leverkusen,Kreisfreie Stadt,,,,,,,,,,,
+05334,Städteregion Aachen,Kreis,,,,,,,,,,,
+05358,Düren,Kreis,,,,,,,,,,,
+05362,Rhein-Erft-Kreis,Kreis,,,,,,,,,,,
+05366,Euskirchen,Kreis,,,,,,,,,,,
+05370,Heinsberg,Kreis,,,,,,,,,,,
+05374,Oberbergischer Kreis,Kreis,,,,,,,,,,,
+05378,Rheinisch-Bergischer Kreis,Kreis,,,,,,,,,,,
+05382,Rhein-Sieg-Kreis,Kreis,,,,,,,,,,,
+05512,Bottrop,Kreisfreie Stadt,,,,,,,,,,,
+05513,Gelsenkirchen,Kreisfreie Stadt,,,,,,,,,,,
+05515,Münster,Kreisfreie Stadt,,,,,,,,,,,
+05554,Borken,Kreis,0.0,,,,,,,,,,
+05558,Coesfeld,Kreis,,,,,,,,,,,
+05562,Recklinghausen,Kreis,,,,,,,,,,,
+05566,Steinfurt,Kreis,,,,,,,,,,,
+05570,Warendorf,Kreis,,,,,,,,,,,
+05711,Bielefeld,Kreisfreie Stadt,,,,,,,,,,,
+05754,Gütersloh,Kreis,,,,,,,,,,,
+05758,Herford,Kreis,,,,,,,,,,,
+05762,Höxter,Kreis,0.09,33,104.0,411.0,100989.0,0.4,,,,,
+05766,Lippe,Kreis,,,,,,,,,,,
+05770,Minden-Lübbecke,Kreis,0.04,9,19.0,112.0,31578.0,0.4,,,,,
+05774,Paderborn,Kreis,0.07,36,121.0,15733.0,189955.0,7.6,,,,,
+05911,Bochum,Kreisfreie Stadt,,,,,,,,,,,
+05913,Dortmund,Kreisfreie Stadt,,,,,,,,,,,
+05914,Hagen,Kreisfreie Stadt,,,,,,,,,,,
+05915,Hamm,Kreisfreie Stadt,,,,,,,,,,,
+05916,Herne,Kreisfreie Stadt,,,,,,,,,,,
+05954,Ennepe-Ruhr-Kreis,Kreis,,,,,,,,,,,
+05958,Hochsauerlandkreis,Kreis,0.05,7,31.0,2776.0,37158.0,7.0,,,,,
+05962,Märkischer Kreis,Kreis,0.0,,,,,,,,,,
+05966,Olpe,Kreis,,,,,,,,,,,
+05970,Siegen-Wittgenstein,Kreis,,,,,,,,,,,
+05974,Soest,Kreis,,,,,,,,,,,
+05978,Unna,Kreis,,,,,,,,,,,
+06411,Darmstadt,Kreisfreie Stadt,,,,,,,,,,,
+06412,Frankfurt am Main,Kreisfreie Stadt,,,,,,,,,,,
+06413,Offenbach am Main,Kreisfreie Stadt,,,,,,,,,,,
+06414,Wiesbaden,Kreisfreie Stadt,,,,,,,,,,,
+06431,Bergstraße,Landkreis,,,,,,,,,,,
+06432,Darmstadt-Dieburg,Landkreis,,,,,,,,,,,
+06433,Groß-Gerau,Landkreis,,,,,,,,,,,
+06434,Hochtaunuskreis,Landkreis,,,,,,,,,,,
+06435,Main-Kinzig-Kreis,Landkreis,0.37,43,146.0,9230.0,243117.0,3.7,,,,,
+06436,Main-Taunus-Kreis,Landkreis,,,,,,,,,,,
+06437,Odenwaldkreis,Landkreis,,,,,,,,,,,
+06438,Offenbach,Landkreis,0.0,,,,,,,,,,
+06439,Rheingau-Taunus-Kreis,Landkreis,,,,,,,,,,,
+06440,Wetteraukreis,Landkreis,,,,,,,,,,,
+06531,Gießen,Landkreis,0.14,9,33.0,449.0,63620.0,0.7,,,,,
+06532,Lahn-Dill-Kreis,Landkreis,,,,,,,,,,,
+06533,Limburg-Weilburg,Landkreis,,,,,,,,,,,
+06534,Marburg-Biedenkopf,Landkreis,0.07,10,35.0,175.0,47014.0,0.4,,,,,
+06535,Vogelsbergkreis,Landkreis,0.36,76,211.0,1205.0,397956.0,0.3,3,55.0,207.0,52957.0,0.4
+06611,Kassel,Kreisfreie Stadt,,,,,,,,,,,
+06631,Fulda,Landkreis,0.82,,,,,,,,,,
+06632,Hersfeld-Rotenburg,Landkreis,0.25,22,84.0,373.0,144810.0,0.3,,,,,
+06633,Kassel,Landkreis,0.04,7,23.0,6.0,31244.0,0.0,,,,,
+06634,Schwalm-Eder-Kreis,Landkreis,0.11,15,45.0,238.0,86524.0,0.3,,,,,
+06635,Waldeck-Frankenberg,Landkreis,0.07,13,51.0,3157.0,90016.0,3.4,,,,,
+06636,Werra-Meißner-Kreis,Landkreis,,,,,,,,,,,
+07111,Koblenz,Kreisfreie Stadt,,,,,,,,,,,
+07131,Ahrweiler,Landkreis,,,,,,,,,,,
+07132,Altenkirchen (Westerwald),Landkreis,,,,,,,,,,,
+07133,Bad Kreuznach,Landkreis,,,,,,,,,,,
+07134,Birkenfeld,Landkreis,,,,,,,,,,,
+07135,Cochem-Zell,Landkreis,,,,,,,,,,,
+07137,Mayen-Koblenz,Landkreis,,,,,,,,,,,
+07138,Neuwied,Landkreis,0.0,,,,,,,,,,
+07140,Rhein-Hunsrück-Kreis,Landkreis,,,,,,,,,,,
+07141,Rhein-Lahn-Kreis,Landkreis,,,,,,,,,,,
+07143,Westerwaldkreis,Landkreis,,,,,,,,,,,
+07211,Trier,Kreisfreie Stadt,,,,,,,,,,,
+07231,Bernkastel-Wittlich,Landkreis,,,,,,,,,,,
+07232,Eifelkreis Bitburg-Prüm,Landkreis,,,,,,,,,,,
+07233,Vulkaneifel,Landkreis,,,,,,,,,,,
+07235,Trier-Saarburg,Landkreis,,,,,,,,,,,
+07311,Frankenthal (Pfalz),Kreisfreie Stadt,,,,,,,,,,,
+07312,Kaiserslautern,Kreisfreie Stadt,,,,,,,,,,,
+07313,Landau in der Pfalz,Kreisfreie Stadt,,,,,,,,,,,
+07314,Ludwigshafen am Rhein,Kreisfreie Stadt,,,,,,,,,,,
+07315,Mainz,Kreisfreie Stadt,,,,,,,,,,,
+07316,Neustadt an der Weinstraße,Kreisfreie Stadt,,,,,,,,,,,
+07317,Pirmasens,Kreisfreie Stadt,,,,,,,,,,,
+07318,Speyer,Kreisfreie Stadt,,,,,,,,,,,
+07319,Worms,Kreisfreie Stadt,,,,,,,,,,,
+07320,Zweibrücken,Kreisfreie Stadt,,,,,,,,,,,
+07331,Alzey-Worms,Landkreis,,,,,,,,,,,
+07332,Bad Dürkheim,Landkreis,,,,,,,,,,,
+07333,Donnersbergkreis,Landkreis,,,,,,,,,,,
+07334,Germersheim,Landkreis,,,,,,,,,,,
+07335,Kaiserslautern,Landkreis,,,,,,,,,,,
+07336,Kusel,Landkreis,,,,,,,,,,,
+07337,Südliche Weinstraße,Landkreis,,,,,,,,,,,
+07338,Rhein-Pfalz-Kreis,Landkreis,,,,,,,,,,,
+07339,Mainz-Bingen,Landkreis,,,,,,,,,,,
+07340,Südwestpfalz,Landkreis,,,,,,,,,,,
+08111,Stuttgart,Stadtkreis,,,,,,,,,,,
+08115,Böblingen,Landkreis,,,,,,,,,,,
+08116,Esslingen,Landkreis,,,,,,,,,,,
+08117,Göppingen,Landkreis,,,,,,,,,,,
+08118,Ludwigsburg,Landkreis,,,,,,,,,,,
+08119,Rems-Murr-Kreis,Landkreis,,,,,,,,,,,
+08121,Heilbronn,Stadtkreis,,,,,,,,,,,
+08125,Heilbronn,Landkreis,,,,,,,,,,,
+08126,Hohenlohekreis,Landkreis,,,,,,,,,,,
+08127,Schwäbisch Hall,Landkreis,,,,,,,,,,,
+08128,Main-Tauber-Kreis,Landkreis,0.0,,,,,,,,,,
+08135,Heidenheim,Landkreis,,,,,,,,,,,
+08136,Ostalbkreis,Landkreis,,,,,,,,,,,
+08211,Baden-Baden,Stadtkreis,,,,,,,,,,,
+08212,Karlsruhe,Stadtkreis,,,,,,,,,,,
+08215,Karlsruhe,Landkreis,,,,,,,,,,,
+08216,Rastatt,Landkreis,,,,,,,,,,,
+08221,Heidelberg,Stadtkreis,,,,,,,,,,,
+08222,Mannheim,Stadtkreis,,,,,,,,,,,
+08225,Neckar-Odenwald-Kreis,Landkreis,,,,,,,,,,,
+08226,Rhein-Neckar-Kreis,Landkreis,,,,,,,,,,,
+08231,Pforzheim,Stadtkreis,,,,,,,,,,,
+08235,Calw,Landkreis,,,,,,,,,,,
+08236,Enzkreis,Landkreis,,,,,,,,,,,
+08237,Freudenstadt,Landkreis,,,,,,,,,,,
+08311,Freiburg im Breisgau,Stadtkreis,,,,,,,,,,,
+08315,Breisgau-Hochschwarzwald,Landkreis,,,,,,,,,,,
+08316,Emmendingen,Landkreis,,,,,,,,,,,
+08317,Ortenaukreis,Landkreis,,,,,,,,,,,
+08325,Rottweil,Landkreis,,,,,,,,,,,
+08326,Schwarzwald-Baar-Kreis,Landkreis,,,,,,,,,,,
+08327,Tuttlingen,Landkreis,,,,,,,,,,,
+08335,Konstanz,Landkreis,,,,,,,,,,,
+08336,Lörrach,Landkreis,,,,,,,,,,,
+08337,Waldshut,Landkreis,,,,,,,,,,,
+08415,Reutlingen,Landkreis,,,,,,,,,,,
+08416,Tübingen,Landkreis,,,,,,,,,,,
+08417,Zollernalbkreis,Landkreis,,,,,,,,,,,
+08421,Ulm,Stadtkreis,,,,,,,,,,,
+08425,Alb-Donau-Kreis,Landkreis,,,,,,,,,,,
+08426,Biberach,Landkreis,,,,,,,,,,,
+08435,Bodenseekreis,Landkreis,,,,,,,,,,,
+08436,Ravensburg,Landkreis,0.0,,,,,,,,,,
+08437,Sigmaringen,Landkreis,,,,,,,,,,,
+09161,Ingolstadt,Kreisfreie Stadt,0.03,,,,,,19,3.0,0.0,1466.0,0.0
+09162,München,Kreisfreie Stadt,0.01,,,,,,16,1.0,5.0,517.0,0.9
+09163,Rosenheim,Kreisfreie Stadt,0.01,,,,,,6,0.0,0.0,84.0,0.0
+09171,Altötting,Landkreis,0.76,,,,,,9794,259.0,13575.0,194287.0,6.5
+09172,Berchtesgadener Land,Landkreis,0.81,,,,,,4590,74.0,135.0,51841.0,0.3
+09173,Bad Tölz-Wolfratshausen,Landkreis,0.75,,,,,,5717,87.0,169.0,59796.0,0.3
+09174,Dachau,Landkreis,0.78,8,18.0,836.0,25333.0,3.2,6790,185.0,18517.0,132439.0,12.3
+09175,Ebersberg,Landkreis,0.79,,,,,,6642,106.0,317.0,72292.0,0.4
+09176,Eichstätt,Landkreis,0.27,,,,,,6049,123.0,2854.0,98570.0,2.8
+09177,Erding,Landkreis,0.32,5,0.0,0.0,16.0,0.0,4394,74.0,1111.0,56269.0,1.9
+09178,Freising,Landkreis,0.68,,,,,,6756,188.0,11527.0,143257.0,7.4
+09179,Fürstenfeldbruck,Landkreis,0.21,,,,,,2144,51.0,1343.0,33276.0,3.9
+09180,Garmisch-Partenkirchen,Landkreis,0.59,,,,,,2522,35.0,26.0,25015.0,0.1
+09181,Landsberg am Lech,Landkreis,0.04,,,,,,847,13.0,10.0,8666.0,0.1
+09182,Miesbach,Landkreis,0.58,,,,,,3681,51.0,84.0,36261.0,0.2
+09183,Mühldorf a.Inn,Landkreis,0.68,,,,,,7999,190.0,7666.0,148990.0,4.9
+09184,München,Landkreis,0.55,,,,,,7234,102.0,271.0,65095.0,0.4
+09185,Neuburg-Schrobenhausen,Landkreis,0.79,,,,,,6052,342.0,39513.0,248180.0,13.7
+09186,Pfaffenhofen a.d.Ilm,Landkreis,0.63,11,30.0,507.0,42847.0,1.2,7953,171.0,3814.0,129386.0,2.9
+09187,Rosenheim,Landkreis,0.7,,,,,,14051,223.0,744.0,156916.0,0.5
+09188,Starnberg,Landkreis,0.79,5,12.0,0.0,18835.0,0.0,5120,88.0,33.0,60577.0,0.1
+09189,Traunstein,Landkreis,0.59,6,5.0,22.0,4474.0,0.5,10305,192.0,2975.0,143074.0,2.0
+09190,Weilheim-Schongau,Landkreis,0.32,,,,,,4268,85.0,278.0,64629.0,0.4
+09261,Landshut,Kreisfreie Stadt,0.15,,,,,,127,13.0,1924.0,10194.0,15.9
+09262,Passau,Kreisfreie Stadt,0.01,,,,,,14,1.0,41.0,939.0,4.2
+09263,Straubing,Kreisfreie Stadt,0.17,,,,,,4,17.0,5430.0,10099.0,35.0
+09271,Deggendorf,Landkreis,0.56,,,,,,10003,354.0,35905.0,276745.0,11.5
+09272,Freyung-Grafenau,Landkreis,0.85,,,,,,8195,173.0,5099.0,134653.0,3.6
+09273,Kelheim,Landkreis,0.8,,,,,,11127,352.0,17936.0,279182.0,6.0
+09274,Landshut,Landkreis,0.68,6,8.0,346.0,5393.0,6.0,14426,403.0,37016.0,297979.0,11.0
+09275,Passau,Landkreis,0.81,3,1.0,0.0,564.0,0.1,20671,566.0,31374.0,444335.0,6.6
+09276,Regen,Landkreis,0.85,,,,,,7654,180.0,8068.0,140562.0,5.4
+09277,Rottal-Inn,Landkreis,0.81,6,2.0,1.0,932.0,0.1,15819,486.0,31016.0,391889.0,7.3
+09278,Straubing-Bogen,Landkreis,0.66,4,11.0,297.0,18765.0,1.6,8491,465.0,58955.0,343164.0,14.7
+09279,Dingolfing-Landau,Landkreis,0.73,4,2.0,1.0,829.0,0.1,10228,342.0,24202.0,295750.0,7.6
+09361,Amberg,Kreisfreie Stadt,0.0,,,,,,,,,,
+09362,Regensburg,Kreisfreie Stadt,,,,,,,,,,,
+09363,Weiden i.d.OPf.,Kreisfreie Stadt,0.15,,,,,,7,6.0,1585.0,4115.0,27.8
+09371,Amberg-Sulzbach,Landkreis,0.86,26,66.0,1422.0,123351.0,1.1,8679,282.0,38894.0,209033.0,15.7
+09372,Cham,Landkreis,0.67,3,0.0,0.0,2.0,1.1,10818,233.0,8080.0,175298.0,4.4
+09373,Neumarkt i.d.OPf.,Landkreis,0.75,53,129.0,4177.0,212984.0,1.9,9304,454.0,21045.0,305740.0,6.4
+09374,Neustadt a.d.Waldnaab,Landkreis,0.84,7,11.0,162.0,18001.0,0.9,8778,353.0,32023.0,258084.0,11.0
+09375,Regensburg,Landkreis,0.67,12,27.0,454.0,36114.0,1.2,10966,306.0,17623.0,213724.0,7.6
+09376,Schwandorf,Landkreis,0.83,9,25.0,340.0,47469.0,0.7,12868,377.0,11910.0,266372.0,4.3
+09377,Tirschenreuth,Landkreis,0.82,14,31.0,322.0,52052.0,0.6,5486,161.0,3614.0,121976.0,2.9
+09461,Bamberg,Kreisfreie Stadt,0.01,,,,,,,,,,
+09462,Bayreuth,Kreisfreie Stadt,0.01,,,,,,,,,,
+09463,Coburg,Kreisfreie Stadt,,,,,,,,,,,
+09464,Hof,Kreisfreie Stadt,0.0,,,,,,,,,,
+09471,Bamberg,Landkreis,0.89,33,81.0,241.0,154410.0,0.2,9444,272.0,4086.0,185708.0,2.2
+09472,Bayreuth,Landkreis,0.84,39,101.0,615.0,178215.0,0.3,6077,137.0,1249.0,113586.0,1.1
+09473,Coburg,Landkreis,0.04,4,10.0,79.0,18468.0,0.4,208,5.0,10.0,3720.0,0.3
+09474,Forchheim,Landkreis,0.69,,,,,,5050,149.0,6212.0,119405.0,4.9
+09475,Hof,Landkreis,0.76,87,197.0,262.0,324814.0,0.1,3739,248.0,4098.0,187823.0,2.1
+09476,Kronach,Landkreis,0.86,15,27.0,175.0,41957.0,0.4,2877,166.0,3125.0,95060.0,3.2
+09477,Kulmbach,Landkreis,0.71,27,62.0,148.0,113325.0,0.1,3636,97.0,360.0,72737.0,0.5
+09478,Lichtenfels,Landkreis,0.92,4,10.0,58.0,17715.0,0.3,4111,148.0,3071.0,123190.0,2.4
+09479,Wunsiedel i.Fichtelgebirge,Landkreis,0.76,17,39.0,255.0,56884.0,0.4,1558,111.0,558.0,49515.0,1.1
+09561,Ansbach,Kreisfreie Stadt,,,,,,,,,,,
+09562,Erlangen,Kreisfreie Stadt,0.0,,,,,,,,,,
+09563,Fürth,Kreisfreie Stadt,,,,,,,,,,,
+09564,Nürnberg,Kreisfreie Stadt,0.0,,,,,,,,,,
+09565,Schwabach,Kreisfreie Stadt,0.0,,,,,,,,,,
+09571,Ansbach,Landkreis,,,,,,,,,,,
+09572,Erlangen-Höchstadt,Landkreis,0.6,14,38.0,368.0,56589.0,0.6,4670,119.0,2600.0,86996.0,2.9
+09573,Fürth,Landkreis,,,,,,,,,,,
+09574,Nürnberger Land,Landkreis,0.02,,,,,,260,4.0,7.0,2739.0,0.2
+09575,Neustadt a.d.Aisch-Bad Windsheim,Landkreis,0.05,,,,,,535,30.0,715.0,25783.0,2.7
+09576,Roth,Landkreis,0.0,,,,,,9,0.0,0.0,54.0,0.0
+09577,Weißenburg-Gunzenhausen,Landkreis,,,,,,,,,,,
+09661,Aschaffenburg,Kreisfreie Stadt,,,,,,,,,,,
+09662,Schweinfurt,Kreisfreie Stadt,,,,,,,,,,,
+09663,Würzburg,Kreisfreie Stadt,0.08,,,,,,,,,,
+09671,Aschaffenburg,Landkreis,0.27,,,,,,3600,44.0,287.0,28237.0,1.0
+09672,Bad Kissingen,Landkreis,0.82,35,98.0,2424.0,137275.0,1.7,5124,223.0,14684.0,178482.0,7.6
+09673,Rhön-Grabfeld,Landkreis,0.34,4,13.0,262.0,17782.0,1.5,1838,106.0,13879.0,64436.0,17.7
+09674,Haßberge,Landkreis,0.72,,,,,,4307,460.0,41017.0,291176.0,12.3
+09675,Kitzingen,Landkreis,0.01,,,,,,295,5.0,21.0,3842.0,0.6
+09676,Miltenberg,Landkreis,0.43,5,12.0,317.0,22950.0,1.4,4776,76.0,859.0,52920.0,1.6
+09677,Main-Spessart,Landkreis,0.68,39,81.0,845.0,102483.0,0.8,4706,208.0,11252.0,182414.0,5.8
+09678,Schweinfurt,Landkreis,0.18,8,17.0,118.0,22656.0,0.5,1682,74.0,29.0,14727.0,0.2
+09679,Würzburg,Landkreis,0.13,25,55.0,1049.0,86788.0,1.2,1173,27.0,914.0,23550.0,3.7
+09761,Augsburg,Kreisfreie Stadt,,,,,,,,,,,
+09762,Kaufbeuren,Kreisfreie Stadt,,,,,,,,,,,
+09763,Kempten (Allgäu),Kreisfreie Stadt,,,,,,,,,,,
+09764,Memmingen,Kreisfreie Stadt,,,,,,,,,,,
+09771,Aichach-Friedberg,Landkreis,0.38,3,7.0,310.0,12499.0,2.4,4736,130.0,9691.0,94248.0,9.3
+09772,Augsburg,Landkreis,,,,,,,,,,,
+09773,Dillingen a.d.Donau,Landkreis,,,,,,,,,,,
+09774,Günzburg,Landkreis,,,,,,,,,,,
+09775,Neu-Ulm,Landkreis,,,,,,,,,,,
+09776,Lindau (Bodensee),Landkreis,,,,,,,,,,,
+09777,Ostallgäu,Landkreis,,,,,,,,,,,
+09778,Unterallgäu,Landkreis,0.0,,,,,,,,,,
+09779,Donau-Ries,Landkreis,0.0,,,,,,,,,,
+09780,Oberallgäu,Landkreis,,,,,,,,,,,
+10041,Regionalverband Saarbrücken,Landkreis,,,,,,,,,,,
+10042,Merzig-Wadern,Landkreis,,,,,,,,,,,
+10043,Neunkirchen,Landkreis,,,,,,,,,,,
+10044,Saarlouis,Landkreis,,,,,,,,,,,
+10045,Saarpfalz-Kreis,Landkreis,,,,,,,,,,,
+10046,St. Wendel,Landkreis,,,,,,,,,,,
+11000,Berlin,Kreisfreie Stadt,0.01,,,,,,,,,,
+12051,Brandenburg an der Havel,Kreisfreie Stadt,0.55,,,,,,161,63.0,4369.0,65980.0,6.2
+12052,Cottbus,Kreisfreie Stadt,,,,,,,,,,,
+12053,Frankfurt (Oder),Kreisfreie Stadt,,,,,,,,,,,
+12054,Potsdam,Kreisfreie Stadt,0.6,32,62.0,616.0,89746.0,0.7,4,16.0,185.0,15482.0,1.2
+12060,Barnim,Landkreis,0.88,143,346.0,30689.0,520205.0,5.6,2993,423.0,21286.0,333111.0,6.0
+12061,Dahme-Spreewald,Landkreis,0.23,68,190.0,1605.0,293993.0,0.5,3251,87.0,343.0,65288.0,0.5
+12062,Elbe-Elster,Landkreis,0.0,,,,,,,,,,
+12063,Havelland,Landkreis,0.53,96,155.0,4216.0,184328.0,2.2,4587,260.0,5061.0,180805.0,2.7
+12064,Märkisch-Oderland,Landkreis,0.7,261,583.0,39221.0,862057.0,4.4,5224,643.0,24087.0,520655.0,4.4
+12065,Oberhavel,Landkreis,0.86,83,153.0,653.0,216714.0,0.3,4141,176.0,1052.0,143162.0,0.7
+12066,Oberspreewald-Lausitz,Landkreis,,,,,,,,,,,
+12067,Oder-Spree,Landkreis,0.89,163,462.0,7278.0,715357.0,1.0,4507,238.0,1349.0,197400.0,0.7
+12068,Ostprignitz-Ruppin,Landkreis,0.81,303,462.0,91458.0,571209.0,13.8,2078,362.0,26982.0,279556.0,8.8
+12069,Potsdam-Mittelmark,Landkreis,0.79,160,343.0,24278.0,497619.0,4.7,6728,210.0,8109.0,157322.0,4.9
+12070,Prignitz,Landkreis,0.58,270,604.0,152426.0,763573.0,16.6,672,307.0,24039.0,226783.0,9.6
+12071,Spree-Neiße,Landkreis,0.01,,,,,,,,,,
+12072,Teltow-Fläming,Landkreis,0.59,211,463.0,30532.0,667542.0,4.4,3737,292.0,5351.0,208282.0,2.5
+12073,Uckermark,Landkreis,0.58,348,902.0,98148.0,1529695.0,6.0,2185,350.0,8728.0,295384.0,2.9
+13003,Rostock,Kreisfreie Stadt,0.21,,,,,,9,11.0,502.0,10068.0,4.7
+13004,Schwerin,Kreisfreie Stadt,,,,,,,,,,,
+13071,Mecklenburgische Seenplatte,Landkreis,0.64,258,586.0,12503.0,1037316.0,1.2,4338,608.0,9769.0,494580.0,1.9
+13072,Rostock,Landkreis,0.55,201,479.0,44082.0,898485.0,4.7,4241,162.0,2212.0,119544.0,1.8
+13073,Vorpommern-Rügen,Landkreis,0.86,270,471.0,3564.0,842656.0,0.4,4282,331.0,2332.0,285361.0,0.8
+13074,Nordwestmecklenburg,Landkreis,0.63,110,214.0,7301.0,343876.0,2.1,2162,100.0,355.0,79301.0,0.4
+13075,Vorpommern-Greifswald,Landkreis,0.81,362,648.0,12123.0,1135947.0,1.1,4169,419.0,6025.0,359544.0,1.6
+13076,Ludwigslust-Parchim,Landkreis,0.07,,,,,,4,90.0,817.0,56224.0,1.4
+14511,Chemnitz,Kreisfreie Stadt,,,,,,,,,,,
+14521,Erzgebirgskreis,Landkreis,,,,,,,,,,,
+14522,Mittelsachsen,Landkreis,,,,,,,,,,,
+14523,Vogtlandkreis,Landkreis,,,,,,,,,,,
+14524,Zwickau,Landkreis,0.0,,,,,,,,,,
+14612,Dresden,Kreisfreie Stadt,,,,,,,,,,,
+14625,Bautzen,Landkreis,,,,,,,,,,,
+14626,Görlitz,Landkreis,,,,,,,,,,,
+14627,Meißen,Landkreis,,,,,,,,,,,
+14628,Sächsische Schweiz-Osterzgebirge,Landkreis,,,,,,,,,,,
+14713,Leipzig,Kreisfreie Stadt,,,,,,,,,,,
+14729,Leipzig,Landkreis,,,,,,,,,,,
+14730,Nordsachsen,Landkreis,,,,,,,,,,,
+15001,Dessau-Roßlau,Kreisfreie Stadt,,,,,,,,,,,
+15002,Halle (Saale),Kreisfreie Stadt,,,,,,,,,,,
+15003,Magdeburg,Kreisfreie Stadt,,,,,,,,,,,
+15081,Altmarkkreis Salzwedel,Landkreis,0.93,172,366.0,24980.0,607289.0,4.0,3393,200.0,8383.0,150218.0,5.3
+15082,Anhalt-Bitterfeld,Landkreis,0.12,33,70.0,1857.0,112179.0,1.6,404,65.0,5104.0,62435.0,7.6
+15083,Börde,Landkreis,0.85,364,652.0,11311.0,877510.0,1.3,4212,429.0,24641.0,260835.0,8.6
+15084,Burgenlandkreis,Landkreis,,,,,,,,,,,
+15085,Harz,Landkreis,0.43,60,117.0,2237.0,209322.0,1.1,1747,135.0,3672.0,112384.0,3.2
+15086,Jerichower Land,Landkreis,0.86,147,294.0,5810.0,445271.0,1.3,2309,153.0,9318.0,117857.0,7.3
+15087,Mansfeld-Südharz,Landkreis,,,,,,,,,,,
+15088,Saalekreis,Landkreis,,,,,,,,,,,
+15089,Salzlandkreis,Landkreis,0.38,151,298.0,6218.0,427250.0,1.4,1251,102.0,4915.0,81556.0,5.7
+15090,Stendal,Landkreis,0.87,285,730.0,102127.0,1048909.0,8.9,2464,228.0,12247.0,182183.0,6.3
+15091,Wittenberg,Landkreis,0.03,6,22.0,0.0,35175.0,0.0,,,,,
+16051,Erfurt,Kreisfreie Stadt,,,,,,,,,,,
+16052,Gera,Kreisfreie Stadt,,,,,,,,,,,
+16053,Jena,Kreisfreie Stadt,,,,,,,,,,,
+16054,Suhl,Kreisfreie Stadt,,,,,,,,,,,
+16055,Weimar,Kreisfreie Stadt,,,,,,,,,,,
+16061,Eichsfeld,Landkreis,,,,,,,,,,,
+16062,Nordhausen,Landkreis,,,,,,,,,,,
+16063,Wartburgkreis,Landkreis,0.04,,,,,,,,,,
+16064,Unstrut-Hainich-Kreis,Landkreis,,,,,,,,,,,
+16065,Kyffhäuserkreis,Landkreis,,,,,,,,,,,
+16066,Schmalkalden-Meiningen,Landkreis,,,,,,,,,,,
+16067,Gotha,Landkreis,,,,,,,,,,,
+16068,Sömmerda,Landkreis,,,,,,,,,,,
+16069,Hildburghausen,Landkreis,,,,,,,,,,,
+16070,Ilm-Kreis,Landkreis,,,,,,,,,,,
+16071,Weimarer Land,Landkreis,,,,,,,,,,,
+16072,Sonneberg,Landkreis,0.02,,,,,,,,,,
+16073,Saalfeld-Rudolstadt,Landkreis,,,,,,,,,,,
+16074,Saale-Holzland-Kreis,Landkreis,,,,,,,,,,,
+16075,Saale-Orla-Kreis,Landkreis,0.11,8,24.0,42.0,51536.0,0.1,,,,,
+16076,Greiz,Landkreis,,,,,,,,,,,
+16077,Altenburger Land,Landkreis,,,,,,,,,,,
