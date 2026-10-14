@@ -1,4 +1,4 @@
-datum,verteilnetz_wind_mwh,verteilnetz_solar_mwh,uebertragungsnetz_mwh,deutschland_wind_solar_eingespeist_mwh
+date,distribution_wind_mwh,distribution_solar_mwh,transmission_mwh,germany_wind_solar_fed_in_mwh
 2025-01-01,87991,74,65556,1029227
 2025-01-02,12601,15,21949,666878
 2025-01-03,45301,132,70939,805927

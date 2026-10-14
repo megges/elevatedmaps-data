@@ -1,4 +1,4 @@
-uw_id,name,lat,lon,typ,uw_2025_ueber_5pct,anlagen,mw
+substation_id,name,lat,lon,type,substation_over_5pct_2025,units,mw
 w92761410,Umspannwerk Geretsried,47.8571,11.5057,solar,0,184,1.6
 w92924852,Bachhausen,49.1479,11.4438,solar,0,299,34.1
 w132966391,,49.9983,11.8439,solar,0,113,0.6

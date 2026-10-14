@@ -1,4 +1,4 @@
-uw_id,name,lat,lon,netzbetreiber,typ,anlagen,mw,mwh_abgeregelt_2025,mwh_eingespeist_2025,quote_2025_pct
+substation_id,name,lat,lon,grid_operator,type,units,mw,mwh_curtailed_2025,mwh_fed_in_2025,share_curtailed_2025_pct
 n1152532181,,52.9571,13.2593,edi,wind,35,72.8,320.0,112266.0,0.3
 n1152532181,,52.9571,13.2593,edi,solar,991,22.5,15.0,15586.0,0.1
 n12133481791,Umspannwerk Mehringen,52.8314,9.1553,ava,solar,6,3.1,11.0,2698.0,0.4

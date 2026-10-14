@@ -1,4 +1,4 @@
-ags,name,art,abdeckung,wind_anlagen,wind_mw,wind_mwh_abgeregelt_2025,wind_mwh_eingespeist_2025,wind_quote_2025_pct,solar_anlagen,solar_mw,solar_mwh_abgeregelt_2025,solar_mwh_eingespeist_2025,solar_quote_2025_pct
+ags,name,kind,coverage,wind_units,wind_mw,wind_mwh_curtailed_2025,wind_mwh_fed_in_2025,wind_share_curtailed_2025_pct,solar_units,solar_mw,solar_mwh_curtailed_2025,solar_mwh_fed_in_2025,solar_share_curtailed_2025_pct
 01001,Flensburg,Kreisfreie Stadt,0.74,23,69.0,1878.0,123805.0,1.5,5,3.0,7.0,2814.0,0.3
 01002,Kiel,Kreisfreie Stadt,,,,,,,,,,,
 01003,Lübeck,Kreisfreie Stadt,,,,,,,,,,,

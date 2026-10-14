@@ -1,65 +1,66 @@
-# Abgeregelt: Daten zur Story
+# Abgeregelt (Curtailed): data for the story
 
-Story: https://elevatedmaps.com/stories/abgeregelt/
-Herausgeber: Elevated Maps (Marcus Lehmann). Daten bis 2026-10-06.
+Story (German): https://elevatedmaps.com/stories/abgeregelt/
+Publisher: Elevated Maps (Marcus Lehmann). Data up to 2026-10-06.
 
-Abregelung heißt: Ein Netzbetreiber drosselt Wind- oder Solaranlagen, weil das Netz voll ist. Der Strom wird nie erzeugt.
-Ein Gesetzentwurf erlaubt Netzbetreibern, Umspannwerke als "kapazitätslimitiert" auszuweisen, wenn dort in einem Jahr mehr als 5 % des möglichen Stroms abgeregelt wurden.
+Curtailment means a grid operator throttles wind or solar units because the grid is full. The electricity is never generated.
+A German draft law would let grid operators declare a substation "capacity-limited" if more than 5 % of the possible electricity there was curtailed in a year.
 
-## Hinweise für KI-Agenten
+## Notes for AI agents
 
-1. Lade die CSV-Dateien unten (UTF-8, Komma als Trennzeichen, Punkt als Dezimalzeichen). Rechne mit Code, nicht im Kopf. In die Rechenumgebung kommen die Dateien am einfachsten mit `git clone --depth 1 https://github.com/megges/elevatedmaps-daten` (Ordner `abgeregelt/`). Klappt das nicht, lies die Links unten und übertrage nur die Datei, die du für die Frage brauchst.
-2. Prüfe deine Rechnung zuerst gegen die Kernzahlen. Weichst du ab, sag es.
-3. Nenne bei jeder Antwort Datei, Filter und Rechnung.
-4. Die Daten decken nur einen Teil Deutschlands ab (siehe Abdeckung). Fehlende Werte heißen "keine Daten", nicht "keine Abregelung".
-5. Mengen im Verteilnetz sind Schätzungen. Schreib das dazu, wenn du sie nennst.
-6. Was die Daten nicht beantworten, beantworte nicht aus dem Gedächtnis. Sag, dass es fehlt.
+1. Load the CSV files below (UTF-8, comma separated, dot as decimal mark). Calculate with code, not in your head. The easiest way into your code environment is `git clone --depth 1 https://github.com/megges/elevatedmaps-data` (folder `abgeregelt/`). If that fails, read the links below and transfer only the file you need for the question.
+2. First check your calculation against the key figures. If you deviate, say so.
+3. With every answer, name file, filter and calculation.
+4. The data cover only part of Germany (see coverage). Missing values mean "no data", not "no curtailment".
+5. Curtailed amounts in the distribution grid are estimates. Say so when you cite them.
+6. Do not answer from memory what the data do not cover. Say that it is missing.
+7. Answer in the user's language.
 
-## Dateien
+## Files
 
-| # | Datei | Zeilen | Größe |
+| # | File | Rows | Size |
 |---|---|---|---|
-| 1 | https://elevatedmaps.com/data/abgeregelt/csv/tage.csv?v=1e0747e1 | 644 | 20 KB |
-| 2 | https://elevatedmaps.com/data/abgeregelt/csv/umspannwerke.csv?v=16cd1886 | 1124 | 83 KB |
-| 3 | https://elevatedmaps.com/data/abgeregelt/csv/kreise.csv?v=e0ad23ab | 400 | 22 KB |
-| 4 | https://elevatedmaps.com/data/abgeregelt/csv/zubau_2026.csv?v=019050d4 | 675 | 37 KB |
+| 1 | https://elevatedmaps.com/data/abgeregelt/csv/days.csv?v=f04e8ba3 | 644 | 20 KB |
+| 2 | https://elevatedmaps.com/data/abgeregelt/csv/substations.csv?v=9c502632 | 1124 | 83 KB |
+| 3 | https://elevatedmaps.com/data/abgeregelt/csv/districts.csv?v=56f923cc | 400 | 22 KB |
+| 4 | https://elevatedmaps.com/data/abgeregelt/csv/new_units_2026.csv?v=e20563df | 675 | 37 KB |
 
-Alle Dateien mit dieser Beschreibung: https://github.com/megges/elevatedmaps-daten (Ordner `abgeregelt/`)
+All files with this description: https://github.com/megges/elevatedmaps-data (folder `abgeregelt/`)
 
-1. **tage.csv**: verlorener Strom je Tag seit 2025 in MWh, lückenlos (0 = an diesem Tag keine Abregelung gemeldet). Verteilnetz geschätzt (gedrosselte Leistung mal Wetter je Ort, ERA5), Übertragungsnetz gemeldet (netztransparenz.de). Dazu der eingespeiste Wind- und Solarstrom in ganz Deutschland (SMARD), damit lässt sich der Anteil des verlorenen Stroms grob schätzen. Da nur ein Teil der Netzbetreiber Daten veröffentlicht, ist dieser Anteil eine Untergrenze.
-2. **umspannwerke.csv**: eine Zeile je Umspannwerk (110 kV, OpenStreetMap) und Energieträger, Jahr 2025, nur Verteilnetz. Jede Anlage zählt zum nächstgelegenen Umspannwerk. Nur Umspannwerke mit mindestens 3 Anlagen, ab 1 MW und mindestens 50 % abgedeckter Leistung. `quote_2025_pct` = abgeregelt / (abgeregelt + eingespeist) * 100. Mengen je Anlage und Monat kalibriert mit der tatsächlichen Einspeisung 2025 (EEG-Bewegungsdaten).
-3. **kreise.csv**: alle Landkreise und kreisfreien Städte. `abdeckung` = Anteil der Wind- und Solarleistung bei Netzbetreibern mit veröffentlichten Daten (0 bis 1, leer = unbekannt). Werte je Energieträger nur für die 5 Verteilnetzbetreiber mit Anlagenschlüssel, ab 3 Anlagen, sonst leer.
-4. **zubau_2026.csv**: Anlagen mit Inbetriebnahme ab 1. Januar 2026 (Marktstammdatenregister) je Umspannwerk und Energieträger, nur an Umspannwerken mit Daten. `uw_2025_ueber_5pct` = 1, wenn das Umspannwerk 2025 für diesen Energieträger über 5 % lag (mindestens 10 MW).
+1. **days.csv**: lost electricity per day since 2025 in MWh, no gaps (0 = no curtailment reported that day). Distribution grid estimated (throttled capacity times local weather, ERA5), transmission grid as reported (netztransparenz.de). Plus wind and solar electricity fed in across all of Germany (SMARD), for a rough share of lost electricity. Since only some grid operators publish data, that share is a lower bound.
+2. **substations.csv**: one row per substation (110 kV, OpenStreetMap) and energy type, year 2025, distribution grid only. Each unit counts towards its nearest substation. Only substations with at least 3 units, at least 1 MW and at least 50 % of capacity covered. `share_curtailed_2025_pct` = curtailed / (curtailed + fed in) * 100. Amounts calibrated per unit and month against actual 2025 feed-in (EEG settlement data).
+3. **districts.csv**: all German districts (Landkreise and kreisfreie Städte). `coverage` = share of wind and solar capacity at grid operators that publish data (0 to 1, empty = unknown). Values per energy type only for the 5 distribution grid operators with unit keys, at least 3 units, otherwise empty.
+4. **new_units_2026.csv**: units commissioned from 1 January 2026 (Marktstammdatenregister) per substation and energy type, only at substations with data. `substation_over_5pct_2025` = 1 if the substation was over 5 % for this energy type in 2025 (at least 10 MW).
 
-## Kernzahlen der Story
+## Key figures of the story
 
-| # | Zahl | Wert | Rechnung |
+| # | Figure | Value | Calculation |
 |---|---|---|---|
-| 1 | Abgeregelt 2025, Verteil- plus Übertragungsnetz | 7,8 TWh | tage.csv: Summe aller drei Spalten, Jahr 2025, durch 1.000.000 |
-| 2 | Haushalte, ein Jahr lang | 2,2 Mio. | 2025er Summe in kWh durch 3.500 kWh je Haushalt |
-| 3 | Abgeregelt Januar bis September 2026 | 6,4 TWh | tage.csv: wie oben, Monate 1-9 |
-| 4 | Veränderung zum selben Zeitraum 2025 | +21 % | tage.csv |
-| 5 | Umspannwerke über 5 %, Wind | 77 | umspannwerke.csv: typ wind, mw >= 10, quote_2025_pct > 5 |
-| 6 | Umspannwerke über 5 %, Solar | 110 | umspannwerke.csv: typ solar, mw >= 10, quote_2025_pct > 5 |
-| 7 | Neue Anlagen seit Januar 2026 (Gebiete mit Daten) | 92.886 | zubau_2026.csv: Summe anlagen |
-| 8 | Anteil ihrer Leistung an Umspannwerken über 5 % | 21 % | zubau_2026.csv: mw mit uw_2025_ueber_5pct = 1 geteilt durch Summe mw |
+| 1 | Curtailed 2025, distribution plus transmission grid | 7.8 TWh | days.csv: sum of the three curtailment columns, year 2025, divided by 1,000,000 |
+| 2 | Households supplied for a year | 2.2 million | 2025 total in kWh divided by 3,500 kWh per household |
+| 3 | Curtailed January to September 2026 | 6.4 TWh | days.csv: as above, months 1-9 |
+| 4 | Change vs. same period 2025 | +21 % | days.csv |
+| 5 | Substations over 5 %, wind | 77 | substations.csv: type wind, mw >= 10, share_curtailed_2025_pct > 5 |
+| 6 | Substations over 5 %, solar | 110 | substations.csv: type solar, mw >= 10, share_curtailed_2025_pct > 5 |
+| 7 | New units since January 2026 (areas with data) | 92,886 | new_units_2026.csv: sum of units |
+| 8 | Share of their capacity at substations over 5 % | 21 % | new_units_2026.csv: mw where substation_over_5pct_2025 = 1 divided by total mw |
 
-Die Zahlen zum 8. Juli 2026, 14 Uhr (rund 9 GW, 14 %) stammen aus Daten je Viertelstunde und Wetter, die hier nicht enthalten sind.
+The figures for 8 July 2026, 2 pm (about 9 GW, 14 %) come from 15-minute data and weather not included here.
 
-## Abdeckung und Grenzen
+## Coverage and limits
 
-1. Daten veröffentlichen: Avacon, Bayernwerk, E.DIS, Schleswig-Holstein Netz, Mitnetz, Syna (redispatchdaten.de), EWE NETZ und Osthessen Netz (eigene Websites), TenneT und 50Hertz (Übertragungsnetz).
-2. Keine vergleichbaren Daten: Westnetz, Netze BW, Stadtwerke wie Berlin, Hamburg, München, viele kleine Netzbetreiber.
-3. Die Meldungen enthalten keine Mengen, nur Zeitraum und Drosselstufe. Die Energie ist geschätzt.
-4. Die Zuordnung zu Umspannwerken ist eine Näherung (nächstgelegenes Umspannwerk).
+1. Publish data: Avacon, Bayernwerk, E.DIS, Schleswig-Holstein Netz, Mitnetz, Syna (redispatchdaten.de), EWE NETZ and Osthessen Netz (own websites), TenneT and 50Hertz (transmission grid).
+2. No comparable data: Westnetz, Netze BW, municipal utilities such as Berlin, Hamburg, Munich, many small grid operators.
+3. Reports contain no amounts, only period and throttling level. Energy is estimated.
+4. Assignment to substations is an approximation (nearest substation).
 
-## Quellen und Lizenzen
+## Sources and licenses
 
 1. Marktstammdatenregister, Bundesnetzagentur (dl-de/by-2-0)
 2. SMARD, Bundesnetzagentur | SMARD.de (CC BY 4.0)
-3. netztransparenz.de (Redispatch, EEG-Bewegungsdaten)
+3. netztransparenz.de (redispatch, EEG settlement data)
 4. redispatchdaten.de, EWE NETZ, Osthessen Netz
-5. ERA5, Copernicus Climate Change Service, ECMWF
-6. Verwaltungsgrenzen © BKG (dl-de/by-2-0), OpenStreetMap-Mitwirkende (ODbL)
+5. Contains modified Copernicus Climate Change Service information (ERA5, ECMWF)
+6. Administrative boundaries © BKG (dl-de/by-2-0), OpenStreetMap contributors (ODbL)
 
-umspannwerke.csv und zubau_2026.csv enthalten Orte und Namen aus OpenStreetMap und stehen daher unter ODbL. Bei Weiterverwendung bitte Elevated Maps und die Quellen nennen.
+substations.csv and new_units_2026.csv contain locations and names from OpenStreetMap and are therefore licensed under ODbL. When reusing, please credit Elevated Maps and the sources.
